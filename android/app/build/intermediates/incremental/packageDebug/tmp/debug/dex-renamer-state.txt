@@ -1,0 +1,4 @@
+#Tue Apr 07 15:12:54 BOT 2020
+base.0=C\:\\Users\\thels\\OneDrive\\Documentos\\React-Native-Tests\\TestCameraV1\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
